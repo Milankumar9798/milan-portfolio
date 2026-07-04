@@ -63,7 +63,6 @@ export default function Hero() {
             transition={{ delay: 0.1 }}
             className="section-eyebrow mb-4"
           >
-            // 01 — Hello
           </motion.p>
 
           <motion.h1
