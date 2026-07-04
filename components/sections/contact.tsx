@@ -37,7 +37,7 @@ export default function Contact() {
           viewport={{ once: true }}
           className="section-eyebrow mb-4"
         >
-          // 07 — Contact
+           07 — Contact
         </motion.p>
         <motion.h2
           initial={{ opacity: 0, y: 16 }}

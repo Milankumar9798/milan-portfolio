@@ -14,7 +14,7 @@ export default function Achievements() {
           viewport={{ once: true }}
           className="section-eyebrow mb-4"
         >
-          // 05 — Achievements
+           05 — Achievements
         </motion.p>
         <motion.h2
           initial={{ opacity: 0, y: 16 }}

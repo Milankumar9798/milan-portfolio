@@ -31,7 +31,7 @@ export default function Skills() {
           viewport={{ once: true }}
           className="section-eyebrow mb-4"
         >
-          // 03 — Skills
+           03 — Skills
         </motion.p>
         <motion.h2
           initial={{ opacity: 0, y: 16 }}

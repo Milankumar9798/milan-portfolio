@@ -23,7 +23,7 @@ export default function Footer() {
           </p>
           <div className="flex items-center gap-6">
             <span className="font-mono text-xs opacity-60">
-              // blog — coming soon
+               blog — coming soon
             </span>
           </div>
         </div>

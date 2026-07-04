@@ -122,7 +122,7 @@ export default function Projects() {
           viewport={{ once: true }}
           className="section-eyebrow mb-4"
         >
-          // 04 — Projects
+           04 — Projects
         </motion.p>
         <motion.h2
           initial={{ opacity: 0, y: 16 }}

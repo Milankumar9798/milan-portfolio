@@ -14,7 +14,7 @@ export default function About() {
           viewport={{ once: true }}
           className="section-eyebrow mb-4"
         >
-          // 02 — About
+           02 — About
         </motion.p>
         <motion.h2
           initial={{ opacity: 0, y: 16 }}
